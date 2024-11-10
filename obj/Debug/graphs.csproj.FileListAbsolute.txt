@@ -1,0 +1,11 @@
+C:\Users\pawan\Desktop\first class rapid\graphs\bin\Debug\graphs.exe.config
+C:\Users\pawan\Desktop\first class rapid\graphs\bin\Debug\graphs.exe
+C:\Users\pawan\Desktop\first class rapid\graphs\bin\Debug\graphs.pdb
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.csproj.AssemblyReference.cache
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\GraphsApp.Form1.resources
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\GraphsApp.PieChartControl.resources
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.Properties.Resources.resources
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.csproj.GenerateResource.cache
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.csproj.CoreCompileInputs.cache
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.exe
+C:\Users\pawan\Desktop\first class rapid\graphs\obj\Debug\graphs.pdb
